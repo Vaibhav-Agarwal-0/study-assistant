@@ -7,3 +7,5 @@ bcrypt
 PyJWT
 pdfplumber
 python-docx
+sentence-transformers
+chromadb
